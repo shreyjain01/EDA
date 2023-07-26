@@ -1,1 +1,1 @@
-# Analyzing the sales of the store.
+This repository contains an Exploratory Data Analysis (EDA) conducted on Apparel Store Data. The EDA was performed using Excel, and it aims to uncover meaningful insights and patterns within the data, presented through interactive visualizations and descriptive statistics.
